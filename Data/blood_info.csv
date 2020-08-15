@@ -1,0 +1,10 @@
+Name,Blood
+ABC,A+
+BCD,A-
+DEF,AB+
+ABC,B+
+BCD,B+
+DEF,B-
+ABC,O+
+BCD,Z+
+DEF,L-
